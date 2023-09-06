@@ -5,7 +5,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Steps followed](#Steps)
-* [Final model from linear regression](#final-model-from-linear-regression)
 * [Acknowledgements](#acknowledgements)
 
 
