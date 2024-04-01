@@ -57,7 +57,10 @@ Steps:
 - Matplotlib.pyplot - version - 3.7.1
 - seaborn - version - 0.12.2
 - Tensorflow - 2.13.0
-- 
+
+## Results
+![image](https://github.com/SuryaBandari247/DL_CNN_Melanoma_Detection/assets/128714777/ccb0c2e5-792c-4b53-bcda-84563f78a7d2)
+
  
 ## Acknowledgements
 - Upgrad
