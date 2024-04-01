@@ -11,6 +11,7 @@
 ## General Information
 ### Problem statement
 > Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis. This assignment uses a dataset of about 2357 images of skin cancer types. The dataset contains 9 sub-directories in each train and test subdirectories. The 9 sub-directories contains the images of 9 skin cancer types respectively.
+![image](https://github.com/SuryaBandari247/DL_CNN_Melanoma_Detection/assets/128714777/2c525b85-d9cb-40d9-a25d-694b5c104e4c)
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
